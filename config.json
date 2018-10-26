@@ -1,0 +1,4 @@
+{
+    "GCLOUD_PROJECT": "nauticus-playground",
+    "DATA_BACKEND": "datastore"
+  }
